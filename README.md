@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohit Kumar
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Front-end Web Development
-- 👩‍💻 HTML, CSS, Javascript, ReactJs, NodeJs, ExpressJs, MongoDB
+- 👩‍💻 HTML, CSS, Javascript, ReactJs
 - 📫 How to reach me ...
 
 <!---
